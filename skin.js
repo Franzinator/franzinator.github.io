@@ -10587,7 +10587,7 @@ function pano2vrSkin(player,base) {
 		hs+='overflow: hidden;';
 		hs+='overflow-y: auto;';
 		els.setAttribute('style',hs);
-		els.innerHTML="STILI";
+		els.innerHTML="SCHEMES";
 		el.appendChild(els);
 		me._text_1.ggIsActive=function() {
 			return false;
